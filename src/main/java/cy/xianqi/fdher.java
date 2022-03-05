@@ -8,6 +8,8 @@ public class fdher {
         System.out.println("fourth hello!");
         System.out.println("master hello!");
         System.out.println("fox-hot hello!");
+        System.out.println("push test!");
+
 
     }
 }
