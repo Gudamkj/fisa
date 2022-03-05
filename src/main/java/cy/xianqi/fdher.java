@@ -6,6 +6,7 @@ public class fdher {
         System.out.println("second hello!");
         System.out.println("third hello!");
         System.out.println("fourth hello!");
+        System.out.println("fox-hot hello!");
 
     }
 }
